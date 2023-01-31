@@ -6,8 +6,8 @@ const btn = document.getElementById("password-btn");
 const copybtn = document.getElementById("clipboard");
 const pwlength = document.getElementById("range");
 const rangeNum = document.getElementById("rangeNum");
-const selectNum = document.getElementById("selectNum");
-const selectChar = document.getElementById("selectChar");
+/* const selectNum = document.getElementById("selectNum");
+const selectChar = document.getElementById("selectChar"); */
 
 /* Range Slider checks value and shows it */
 pwlength.addEventListener("mousemove", function() {  
